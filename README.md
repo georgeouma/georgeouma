@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georgeouma
-- 👀 I’m interested in eCommerce, AI and SaaS projects
-- 🌱 I’m currently learning python programming language
+- 👀 I’m interested in eCommerce and AI projects
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me (phone: +254719751690 or [linkedin :linkedin.com/in/georgeouma/](https://www.linkedin.com/in/georgeouma/) or email: georgengura@gmail.com )
 <!---
